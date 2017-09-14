@@ -23,6 +23,6 @@ Durchsucht ein Verzeichnis nach MP3-Dateien. Eine Filterung nach Genre ist mögl
 
  * Shift halten und Rechtsklick auf Projekt-Verzeichnis
  * Eingabeaufforderung hier öffnen
-   * D:\...\mp3reader> java -jar mp3reader.jar "D:\Musik"
-   * D:\...\mp3reader> java -jar mp3reader.jar "D:\Musik" "Pop"
+   * D:\verzeichnis\mp3reader> java -jar mp3reader.jar "D:\Musik"
+   * D:\verzeichnis\mp3reader> java -jar mp3reader.jar "D:\Musik" "Pop"
  
