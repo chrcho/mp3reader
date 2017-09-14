@@ -11,8 +11,7 @@ Durchsucht ein Verzeichnis nach MP3-Dateien. Eine Filterung nach Genre ist mögl
 
  * Eclipse starten
  * Unter "Window > Preferences" nach "Environment" filtern und eine JDK 8 für JavaSE-1.8 auswählen
- * Rechtsklick im Package Explorer unter "Import > nach Maven filtern > Existing Maven Projects
-   > Browse to project > Select project > Finish"
+ * Rechtsklick im Package Explorer unter "Import > nach Maven filtern > Existing Maven Projects > Browse to project > Select project > Finish"
  * Rechtsklick auf das Projekt danach "Run As > Java Application" betätigen (Argumente fehlen)
  * Run Configuration vom Projekt öffnen und Programm-Argumente eingeben (ein Verzeichnis und optional 
    ein Genre-Filter)
@@ -24,7 +23,6 @@ Durchsucht ein Verzeichnis nach MP3-Dateien. Eine Filterung nach Genre ist mögl
 
  * Shift halten und Rechtsklick auf Projekt-Verzeichnis
  * Eingabeaufforderung hier öffnen
- * D:\...\mp3reader> java -jar mp3reader.jar "D:\Musik"
-   oder 
- * D:\...\mp3reader> java -jar mp3reader.jar "D:\Musik" "Pop"
+   * D:\...\mp3reader> java -jar mp3reader.jar "D:\Musik"
+   * D:\...\mp3reader> java -jar mp3reader.jar "D:\Musik" "Pop"
  
